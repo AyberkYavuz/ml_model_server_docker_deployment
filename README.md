@@ -32,6 +32,12 @@ docker run -p 5000:5000 -d docker-iris-ml-server
 
 9. open postman and try http://localhost:5000/predict_class for the post method to get model prediction
 
+For example; try the following in your POST request to get machine learning model prediction
+```bash
+{"sepal_length": 5.1, "sepal_width": 3.5, 
+"petal_length": 1.4, "petal_width": 0.2}
+```
+
 10. use the following command to see CONTAINER ID
 ```bash
 docker ps
