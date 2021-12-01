@@ -5,6 +5,8 @@ This repository is for containing source codes of machine learning model server 
 You need to have [docker](https://www.docker.com/products/docker-desktop)
 
 ## Youtube Video of The Project
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/deFb1Y4XTXY/0.jpg)](http://www.youtube.com/watch?v=deFb1Y4XTXY)
+
 
 ## Docker Deployment Instructions
 1. clone this repo to your local machine
